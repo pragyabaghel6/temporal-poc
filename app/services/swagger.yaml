@@ -1,0 +1,104 @@
+openapi: 3.1.0
+info:
+  title: Temporal Fines Processing POC API
+  version: 1.0.0
+  description: API for starting the Temporal revenue file workflow for fine processing.
+servers:
+  - url: http://localhost:8000
+    description: Local FastAPI server
+paths:
+  /process-fines/:
+    get:
+      summary: Start fine processing workflow
+      operationId: processFinesFromBrowser
+      description: Starts the Temporal revenue file workflow for the provided CSV file path.
+      parameters:
+        - name: file_path
+          in: query
+          required: true
+          description: Path to the CSV file that should be processed.
+          schema:
+            type: string
+          example: sample.csv
+      responses:
+        "200":
+          description: Workflow started successfully.
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/WorkflowStartResponse"
+              example:
+                workflow_id: revenue-file-workflow-9d42e9ed-8e11-4d3d-a6b0-ecab7aa1c02a
+                status: started
+        "422":
+          description: Request validation error.
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ValidationErrorResponse"
+        "500":
+          description: Workflow could not be started.
+    post:
+      summary: Start fine processing workflow
+      operationId: processFines
+      description: Starts the Temporal revenue file workflow for the provided CSV file path.
+      parameters:
+        - name: file_path
+          in: query
+          required: true
+          description: Path to the CSV file that should be processed.
+          schema:
+            type: string
+          example: sample.csv
+      responses:
+        "200":
+          description: Workflow started successfully.
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/WorkflowStartResponse"
+              example:
+                workflow_id: revenue-file-workflow-9d42e9ed-8e11-4d3d-a6b0-ecab7aa1c02a
+                status: started
+        "422":
+          description: Request validation error.
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ValidationErrorResponse"
+        "500":
+          description: Workflow could not be started.
+components:
+  schemas:
+    WorkflowStartResponse:
+      type: object
+      required:
+        - workflow_id
+        - status
+      properties:
+        workflow_id:
+          type: string
+          description: Temporal workflow ID.
+          example: revenue-file-workflow-9d42e9ed-8e11-4d3d-a6b0-ecab7aa1c02a
+        status:
+          type: string
+          description: Startup status returned by the API.
+          example: started
+    ValidationErrorResponse:
+      type: object
+      properties:
+        detail:
+          type: array
+          items:
+            type: object
+            properties:
+              loc:
+                type: array
+                items:
+                  anyOf:
+                    - type: string
+                    - type: integer
+              msg:
+                type: string
+              type:
+                type: string
