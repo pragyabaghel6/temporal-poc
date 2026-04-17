@@ -1,0 +1,4012 @@
+[
+  {
+    "message": "Started freeze workflow for sample.csv",
+    "status": "STARTED",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF929015",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-2",
+    "row_number": 2,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF310074",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-3",
+    "row_number": 3,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF846071",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-4",
+    "row_number": 4,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF315292",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-5",
+    "row_number": 5,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF126291",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-6",
+    "row_number": 6,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF835653",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-7",
+    "row_number": 7,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF322439",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-8",
+    "row_number": 8,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF897534",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-9",
+    "row_number": 9,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF989019",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-10",
+    "row_number": 10,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF885831",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-11",
+    "row_number": 11,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF247641",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-12",
+    "row_number": 12,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF804024",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-13",
+    "row_number": 13,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF415227",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-14",
+    "row_number": 14,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF362242",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-15",
+    "row_number": 15,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF934457",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-16",
+    "row_number": 16,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF969802",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-17",
+    "row_number": 17,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF769349",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-18",
+    "row_number": 18,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF939402",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-19",
+    "row_number": 19,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF868729",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-20",
+    "row_number": 20,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF192851",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-21",
+    "row_number": 21,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF105636",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-22",
+    "row_number": 22,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF210227",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-23",
+    "row_number": 23,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF478124",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-24",
+    "row_number": 24,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF908586",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-25",
+    "row_number": 25,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF313779",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-26",
+    "row_number": 26,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF857965",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-27",
+    "row_number": 27,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF890829",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-28",
+    "row_number": 28,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF140560",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-29",
+    "row_number": 29,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF991582",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-30",
+    "row_number": 30,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF831306",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-31",
+    "row_number": 31,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF403264",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-32",
+    "row_number": 32,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF923504",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-33",
+    "row_number": 33,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF563428",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-34",
+    "row_number": 34,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF186614",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-35",
+    "row_number": 35,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF227880",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-36",
+    "row_number": 36,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF945155",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-37",
+    "row_number": 37,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF460298",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-38",
+    "row_number": 38,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF851970",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-39",
+    "row_number": 39,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF274890",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-40",
+    "row_number": 40,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF393577",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-41",
+    "row_number": 41,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF925505",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-42",
+    "row_number": 42,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF964804",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-43",
+    "row_number": 43,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF932909",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-44",
+    "row_number": 44,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF909641",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-45",
+    "row_number": 45,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF133763",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-46",
+    "row_number": 46,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF710894",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-47",
+    "row_number": 47,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF736100",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-48",
+    "row_number": 48,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF574954",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-49",
+    "row_number": 49,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF682061",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-50",
+    "row_number": 50,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF800244",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-51",
+    "row_number": 51,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF644080",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-52",
+    "row_number": 52,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF289566",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-53",
+    "row_number": 53,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF524210",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-54",
+    "row_number": 54,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF651563",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-55",
+    "row_number": 55,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF844913",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-56",
+    "row_number": 56,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF851806",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-57",
+    "row_number": 57,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF796665",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-58",
+    "row_number": 58,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF150704",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-59",
+    "row_number": 59,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF303701",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-60",
+    "row_number": 60,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF368164",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-61",
+    "row_number": 61,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF336791",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-62",
+    "row_number": 62,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF466451",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-63",
+    "row_number": 63,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF485428",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-64",
+    "row_number": 64,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF608377",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-65",
+    "row_number": 65,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF683028",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-66",
+    "row_number": 66,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF918662",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-67",
+    "row_number": 67,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF244323",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-68",
+    "row_number": 68,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF697179",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-69",
+    "row_number": 69,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF125704",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-70",
+    "row_number": 70,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF229676",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-71",
+    "row_number": 71,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF238491",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-72",
+    "row_number": 72,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF191976",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-73",
+    "row_number": 73,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF322142",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-74",
+    "row_number": 74,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF739085",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-75",
+    "row_number": 75,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF558644",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-76",
+    "row_number": 76,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF520524",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-77",
+    "row_number": 77,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF256047",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-78",
+    "row_number": 78,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF302717",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-79",
+    "row_number": 79,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF916743",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-80",
+    "row_number": 80,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF218641",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-81",
+    "row_number": 81,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF852658",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-82",
+    "row_number": 82,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF665537",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-83",
+    "row_number": 83,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF759457",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-84",
+    "row_number": 84,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF434108",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-85",
+    "row_number": 85,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF507474",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-86",
+    "row_number": 86,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF491755",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-87",
+    "row_number": 87,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF151883",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-88",
+    "row_number": 88,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF654217",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-89",
+    "row_number": 89,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF797561",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-90",
+    "row_number": 90,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF534833",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-91",
+    "row_number": 91,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF955895",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-92",
+    "row_number": 92,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF512841",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-93",
+    "row_number": 93,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF332021",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-94",
+    "row_number": 94,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF919596",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-95",
+    "row_number": 95,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF131836",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-96",
+    "row_number": 96,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF250199",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-97",
+    "row_number": 97,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF890433",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-98",
+    "row_number": 98,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF908375",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-99",
+    "row_number": 99,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF905479",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-100",
+    "row_number": 100,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF752500",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-101",
+    "row_number": 101,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF268914",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-102",
+    "row_number": 102,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF262839",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-103",
+    "row_number": 103,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF797840",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-104",
+    "row_number": 104,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF843786",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-105",
+    "row_number": 105,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF355376",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-106",
+    "row_number": 106,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF521013",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-107",
+    "row_number": 107,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF909658",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-108",
+    "row_number": 108,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF125694",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-109",
+    "row_number": 109,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF412373",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-110",
+    "row_number": 110,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF486146",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-111",
+    "row_number": 111,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF680389",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-112",
+    "row_number": 112,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF680228",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-113",
+    "row_number": 113,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF290624",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-114",
+    "row_number": 114,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF265914",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-115",
+    "row_number": 115,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF359139",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-116",
+    "row_number": 116,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF580962",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-117",
+    "row_number": 117,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF253447",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-118",
+    "row_number": 118,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF872131",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-119",
+    "row_number": 119,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF219765",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-120",
+    "row_number": 120,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF926697",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-121",
+    "row_number": 121,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF833947",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-122",
+    "row_number": 122,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF676222",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-123",
+    "row_number": 123,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF801787",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-124",
+    "row_number": 124,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF695771",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-125",
+    "row_number": 125,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF730136",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-126",
+    "row_number": 126,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF199831",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-127",
+    "row_number": 127,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF743049",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-128",
+    "row_number": 128,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF947643",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-129",
+    "row_number": 129,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF380961",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-130",
+    "row_number": 130,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF695700",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-131",
+    "row_number": 131,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF408190",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-132",
+    "row_number": 132,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF434469",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-133",
+    "row_number": 133,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF589147",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-134",
+    "row_number": 134,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF450011",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-135",
+    "row_number": 135,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF934609",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-136",
+    "row_number": 136,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF768122",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-137",
+    "row_number": 137,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF101913",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-138",
+    "row_number": 138,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF445990",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-139",
+    "row_number": 139,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF321522",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-140",
+    "row_number": 140,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF335593",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-141",
+    "row_number": 141,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF849474",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-142",
+    "row_number": 142,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF182974",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-143",
+    "row_number": 143,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF764706",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-144",
+    "row_number": 144,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF526694",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-145",
+    "row_number": 145,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF259058",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-146",
+    "row_number": 146,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF485226",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-147",
+    "row_number": 147,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF218796",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-148",
+    "row_number": 148,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF608583",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-149",
+    "row_number": 149,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF300622",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-150",
+    "row_number": 150,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF211111",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-151",
+    "row_number": 151,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF481480",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-152",
+    "row_number": 152,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF227844",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-153",
+    "row_number": 153,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF820230",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-154",
+    "row_number": 154,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF948742",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-155",
+    "row_number": 155,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF785656",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-156",
+    "row_number": 156,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF122535",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-157",
+    "row_number": 157,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF692720",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-158",
+    "row_number": 158,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF921910",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-159",
+    "row_number": 159,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF361262",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-160",
+    "row_number": 160,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF835321",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-161",
+    "row_number": 161,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF714210",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-162",
+    "row_number": 162,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF835721",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-163",
+    "row_number": 163,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF573448",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-164",
+    "row_number": 164,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF385101",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-165",
+    "row_number": 165,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF601389",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-166",
+    "row_number": 166,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF961333",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-167",
+    "row_number": 167,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF383308",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-168",
+    "row_number": 168,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF802484",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-169",
+    "row_number": 169,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF606151",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-170",
+    "row_number": 170,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF183461",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-171",
+    "row_number": 171,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF819696",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-172",
+    "row_number": 172,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF295979",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-173",
+    "row_number": 173,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF390792",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-174",
+    "row_number": 174,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF247182",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-175",
+    "row_number": 175,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF399310",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-176",
+    "row_number": 176,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF744716",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-177",
+    "row_number": 177,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF777529",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-178",
+    "row_number": 178,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF210243",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-179",
+    "row_number": 179,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF774530",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-180",
+    "row_number": 180,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF939560",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-181",
+    "row_number": 181,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF141428",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-182",
+    "row_number": 182,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF934095",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-183",
+    "row_number": 183,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF230900",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-184",
+    "row_number": 184,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF573375",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-185",
+    "row_number": 185,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF322419",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-186",
+    "row_number": 186,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF902041",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-187",
+    "row_number": 187,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF890462",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-188",
+    "row_number": 188,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF484397",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-189",
+    "row_number": 189,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF822139",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-190",
+    "row_number": 190,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF503488",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-191",
+    "row_number": 191,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF687297",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-192",
+    "row_number": 192,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF664375",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-193",
+    "row_number": 193,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF417306",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-194",
+    "row_number": 194,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF807783",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-195",
+    "row_number": 195,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF884216",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-196",
+    "row_number": 196,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF484313",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-197",
+    "row_number": 197,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF326911",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-198",
+    "row_number": 198,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF348150",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-199",
+    "row_number": 199,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF368237",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-200",
+    "row_number": 200,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF688161",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-201",
+    "row_number": 201,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF841901",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-202",
+    "row_number": 202,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF445686",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-203",
+    "row_number": 203,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF178753",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-204",
+    "row_number": 204,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF183655",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-205",
+    "row_number": 205,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF454081",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-206",
+    "row_number": 206,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF534195",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-207",
+    "row_number": 207,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF456573",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-208",
+    "row_number": 208,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF242962",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-209",
+    "row_number": 209,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF450924",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-210",
+    "row_number": 210,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF960073",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-211",
+    "row_number": 211,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF426030",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-212",
+    "row_number": 212,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF564090",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-213",
+    "row_number": 213,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF377794",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-214",
+    "row_number": 214,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF986752",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-215",
+    "row_number": 215,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF625684",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-216",
+    "row_number": 216,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF267436",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-217",
+    "row_number": 217,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF987177",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-218",
+    "row_number": 218,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF311289",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-219",
+    "row_number": 219,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF949746",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-220",
+    "row_number": 220,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF995000",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-221",
+    "row_number": 221,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF126827",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-222",
+    "row_number": 222,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF592596",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-223",
+    "row_number": 223,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF494005",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-224",
+    "row_number": 224,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF191037",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-225",
+    "row_number": 225,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF679812",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-226",
+    "row_number": 226,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF710722",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-227",
+    "row_number": 227,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF266175",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-228",
+    "row_number": 228,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF398961",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-229",
+    "row_number": 229,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF208456",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-230",
+    "row_number": 230,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF567449",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-231",
+    "row_number": 231,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF426051",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-232",
+    "row_number": 232,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF179517",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-233",
+    "row_number": 233,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF576954",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-234",
+    "row_number": 234,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF892618",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-235",
+    "row_number": 235,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF736592",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-236",
+    "row_number": 236,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF267786",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-237",
+    "row_number": 237,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF756236",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-238",
+    "row_number": 238,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF869575",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-239",
+    "row_number": 239,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF222276",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-240",
+    "row_number": 240,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF389475",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-241",
+    "row_number": 241,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF499270",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-242",
+    "row_number": 242,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF668105",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-243",
+    "row_number": 243,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF889200",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-244",
+    "row_number": 244,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF897634",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-245",
+    "row_number": 245,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF986104",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-246",
+    "row_number": 246,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF127482",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-247",
+    "row_number": 247,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF127379",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-248",
+    "row_number": 248,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF663486",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-249",
+    "row_number": 249,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF314043",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-250",
+    "row_number": 250,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF937910",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-251",
+    "row_number": 251,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF687314",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-252",
+    "row_number": 252,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF248498",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-253",
+    "row_number": 253,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF884353",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-254",
+    "row_number": 254,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF133373",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-255",
+    "row_number": 255,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF460634",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-256",
+    "row_number": 256,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF477122",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-257",
+    "row_number": 257,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF328077",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-258",
+    "row_number": 258,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF536202",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-259",
+    "row_number": 259,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF255944",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-260",
+    "row_number": 260,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF457037",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-261",
+    "row_number": 261,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF232388",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-262",
+    "row_number": 262,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF688900",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-263",
+    "row_number": 263,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF352862",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-264",
+    "row_number": 264,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF934006",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-265",
+    "row_number": 265,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF355949",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-266",
+    "row_number": 266,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF679564",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-267",
+    "row_number": 267,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF461819",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-268",
+    "row_number": 268,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF556825",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-269",
+    "row_number": 269,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF403134",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-270",
+    "row_number": 270,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF806122",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-271",
+    "row_number": 271,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF621234",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-272",
+    "row_number": 272,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF141309",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-273",
+    "row_number": 273,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF977843",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-274",
+    "row_number": 274,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF344201",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-275",
+    "row_number": 275,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF331316",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-276",
+    "row_number": 276,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF195946",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-277",
+    "row_number": 277,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF167258",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-278",
+    "row_number": 278,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF121785",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-279",
+    "row_number": 279,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF820146",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-280",
+    "row_number": 280,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF818494",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-281",
+    "row_number": 281,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF306537",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-282",
+    "row_number": 282,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF290136",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-283",
+    "row_number": 283,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF935094",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-284",
+    "row_number": 284,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF334532",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-285",
+    "row_number": 285,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF245542",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-286",
+    "row_number": 286,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF671819",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-287",
+    "row_number": 287,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF189342",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-288",
+    "row_number": 288,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF259739",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-289",
+    "row_number": 289,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF726004",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-290",
+    "row_number": 290,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF416406",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-291",
+    "row_number": 291,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF265401",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-292",
+    "row_number": 292,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF921809",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-293",
+    "row_number": 293,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF130699",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-294",
+    "row_number": 294,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF233066",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-295",
+    "row_number": 295,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF478855",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-296",
+    "row_number": 296,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF498464",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-297",
+    "row_number": 297,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF193482",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-298",
+    "row_number": 298,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF524304",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-299",
+    "row_number": 299,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF344852",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-300",
+    "row_number": 300,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF523205",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-301",
+    "row_number": 301,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF157535",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-302",
+    "row_number": 302,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF516499",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-303",
+    "row_number": 303,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF281390",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-304",
+    "row_number": 304,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF831160",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-305",
+    "row_number": 305,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF470388",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-306",
+    "row_number": 306,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF404161",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-307",
+    "row_number": 307,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF865624",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-308",
+    "row_number": 308,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF379204",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-309",
+    "row_number": 309,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF223148",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-310",
+    "row_number": 310,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF409928",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-311",
+    "row_number": 311,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF849668",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-312",
+    "row_number": 312,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF566304",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-313",
+    "row_number": 313,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF606939",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-314",
+    "row_number": 314,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF989828",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-315",
+    "row_number": 315,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF276459",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-316",
+    "row_number": 316,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF696788",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-317",
+    "row_number": 317,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF773269",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-318",
+    "row_number": 318,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF756509",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-319",
+    "row_number": 319,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF929091",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-320",
+    "row_number": 320,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF523128",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-321",
+    "row_number": 321,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF989234",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-322",
+    "row_number": 322,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF164080",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-323",
+    "row_number": 323,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF210362",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-324",
+    "row_number": 324,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF653888",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-325",
+    "row_number": 325,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF924089",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-326",
+    "row_number": 326,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF212827",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-327",
+    "row_number": 327,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF906438",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-328",
+    "row_number": 328,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF609918",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-329",
+    "row_number": 329,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF565552",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-330",
+    "row_number": 330,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF643736",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-331",
+    "row_number": 331,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF504142",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-332",
+    "row_number": 332,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF219051",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-333",
+    "row_number": 333,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF646614",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-334",
+    "row_number": 334,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF415008",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-335",
+    "row_number": 335,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF385079",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-336",
+    "row_number": 336,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF887982",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-337",
+    "row_number": 337,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF992808",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-338",
+    "row_number": 338,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF345558",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-339",
+    "row_number": 339,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF666860",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-340",
+    "row_number": 340,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF458368",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-341",
+    "row_number": 341,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF799637",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-342",
+    "row_number": 342,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF850180",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-343",
+    "row_number": 343,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF459997",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-344",
+    "row_number": 344,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF207757",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-345",
+    "row_number": 345,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF377710",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-346",
+    "row_number": 346,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF990222",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-347",
+    "row_number": 347,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF215607",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-348",
+    "row_number": 348,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF797251",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-349",
+    "row_number": 349,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF356084",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-350",
+    "row_number": 350,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF783856",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-351",
+    "row_number": 351,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF273125",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-352",
+    "row_number": 352,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF963104",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-353",
+    "row_number": 353,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF371921",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-354",
+    "row_number": 354,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF755659",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-355",
+    "row_number": 355,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF578786",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-356",
+    "row_number": 356,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF969715",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-357",
+    "row_number": 357,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF736829",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-358",
+    "row_number": 358,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF203186",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-359",
+    "row_number": 359,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF685877",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-360",
+    "row_number": 360,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF711546",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-361",
+    "row_number": 361,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF413670",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-362",
+    "row_number": 362,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF226740",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-363",
+    "row_number": 363,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF210668",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-364",
+    "row_number": 364,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF833850",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-365",
+    "row_number": 365,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF227223",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-366",
+    "row_number": 366,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF562963",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-367",
+    "row_number": 367,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF159391",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-368",
+    "row_number": 368,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF680868",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-369",
+    "row_number": 369,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF540126",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-370",
+    "row_number": 370,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF552670",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-371",
+    "row_number": 371,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF264623",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-372",
+    "row_number": 372,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF471810",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-373",
+    "row_number": 373,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF318640",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-374",
+    "row_number": 374,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF507735",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-375",
+    "row_number": 375,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF659897",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-376",
+    "row_number": 376,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF102701",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-377",
+    "row_number": 377,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF871617",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-378",
+    "row_number": 378,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF923376",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-379",
+    "row_number": 379,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF434084",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-380",
+    "row_number": 380,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF223968",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-381",
+    "row_number": 381,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF229663",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-382",
+    "row_number": 382,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF616725",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-383",
+    "row_number": 383,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF675322",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-384",
+    "row_number": 384,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF605912",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-385",
+    "row_number": 385,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF944854",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-386",
+    "row_number": 386,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF812330",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-387",
+    "row_number": 387,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF562376",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-388",
+    "row_number": 388,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF262604",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-389",
+    "row_number": 389,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF969647",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-390",
+    "row_number": 390,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF249271",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-391",
+    "row_number": 391,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF493040",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-392",
+    "row_number": 392,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF770226",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-393",
+    "row_number": 393,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF540879",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-394",
+    "row_number": 394,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF622845",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-395",
+    "row_number": 395,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF260623",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-396",
+    "row_number": 396,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF798357",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-397",
+    "row_number": 397,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF911695",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-398",
+    "row_number": 398,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF909430",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-399",
+    "row_number": 399,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF282790",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-400",
+    "row_number": 400,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF156251",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-401",
+    "row_number": 401,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF298921",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-402",
+    "row_number": 402,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF243304",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-403",
+    "row_number": 403,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF504570",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-404",
+    "row_number": 404,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF367075",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-405",
+    "row_number": 405,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF322928",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-406",
+    "row_number": 406,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF123244",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-407",
+    "row_number": 407,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF596191",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-408",
+    "row_number": 408,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF987129",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-409",
+    "row_number": 409,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF852422",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-410",
+    "row_number": 410,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF856310",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-411",
+    "row_number": 411,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF997854",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-412",
+    "row_number": 412,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF772508",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-413",
+    "row_number": 413,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF792030",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-414",
+    "row_number": 414,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF672301",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-415",
+    "row_number": 415,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF552807",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-416",
+    "row_number": 416,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF362661",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-417",
+    "row_number": 417,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF239640",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-418",
+    "row_number": 418,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF285678",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-419",
+    "row_number": 419,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF980742",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-420",
+    "row_number": 420,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF517425",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-421",
+    "row_number": 421,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF478897",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-422",
+    "row_number": 422,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF364150",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-423",
+    "row_number": 423,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF845049",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-424",
+    "row_number": 424,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF853973",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-425",
+    "row_number": 425,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF127434",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-426",
+    "row_number": 426,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF368216",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-427",
+    "row_number": 427,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF781437",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-428",
+    "row_number": 428,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF311704",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-429",
+    "row_number": 429,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF341191",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-430",
+    "row_number": 430,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF720630",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-431",
+    "row_number": 431,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF889432",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-432",
+    "row_number": 432,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF328267",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-433",
+    "row_number": 433,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF498369",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-434",
+    "row_number": 434,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF641868",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-435",
+    "row_number": 435,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF409564",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-436",
+    "row_number": 436,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF408499",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-437",
+    "row_number": 437,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF774737",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-438",
+    "row_number": 438,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF705302",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-439",
+    "row_number": 439,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF601441",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-440",
+    "row_number": 440,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF555642",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-441",
+    "row_number": 441,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF131761",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-442",
+    "row_number": 442,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF840106",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-443",
+    "row_number": 443,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF357104",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-444",
+    "row_number": 444,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF220088",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-445",
+    "row_number": 445,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF861927",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-446",
+    "row_number": 446,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF163519",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-447",
+    "row_number": 447,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF146983",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-448",
+    "row_number": 448,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF104770",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-449",
+    "row_number": 449,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF971330",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-450",
+    "row_number": 450,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF392694",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-451",
+    "row_number": 451,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF832762",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-452",
+    "row_number": 452,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF411416",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-453",
+    "row_number": 453,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF196850",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-454",
+    "row_number": 454,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF269590",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-455",
+    "row_number": 455,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF946189",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-456",
+    "row_number": 456,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF335341",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-457",
+    "row_number": 457,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF919160",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-458",
+    "row_number": 458,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF355476",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-459",
+    "row_number": 459,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF554867",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-460",
+    "row_number": 460,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF507576",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-461",
+    "row_number": 461,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF431939",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-462",
+    "row_number": 462,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF606831",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-463",
+    "row_number": 463,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF168240",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-464",
+    "row_number": 464,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF152862",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-465",
+    "row_number": 465,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF191081",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-466",
+    "row_number": 466,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF577364",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-467",
+    "row_number": 467,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF915006",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-468",
+    "row_number": 468,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF180970",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-469",
+    "row_number": 469,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF463138",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-470",
+    "row_number": 470,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF980887",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-471",
+    "row_number": 471,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF713383",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-472",
+    "row_number": 472,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF984214",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-473",
+    "row_number": 473,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF471665",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-474",
+    "row_number": 474,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF535972",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-475",
+    "row_number": 475,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF863887",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-476",
+    "row_number": 476,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF545597",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-477",
+    "row_number": 477,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF173212",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-478",
+    "row_number": 478,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF231784",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-479",
+    "row_number": 479,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF627603",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-480",
+    "row_number": 480,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF305190",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-481",
+    "row_number": 481,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF640004",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-482",
+    "row_number": 482,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF947041",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-483",
+    "row_number": 483,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF164112",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-484",
+    "row_number": 484,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF469905",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-485",
+    "row_number": 485,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF229162",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-486",
+    "row_number": 486,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF680161",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-487",
+    "row_number": 487,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF553789",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-488",
+    "row_number": 488,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF247114",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-489",
+    "row_number": 489,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF327089",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-490",
+    "row_number": 490,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF758855",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-491",
+    "row_number": 491,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF431496",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-492",
+    "row_number": 492,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF670712",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-493",
+    "row_number": 493,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF468775",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-494",
+    "row_number": 494,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF539569",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-495",
+    "row_number": 495,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF611508",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-496",
+    "row_number": 496,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF412294",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-497",
+    "row_number": 497,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF119895",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-498",
+    "row_number": 498,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF909410",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-499",
+    "row_number": 499,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF666727",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-500",
+    "row_number": 500,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "cif_id": "CIF562620",
+    "message": "freeze applied; duplicate=False",
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-501",
+    "row_number": 501,
+    "status": "SUCCESS",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  },
+  {
+    "message": "Completed with summary: {'workflow_id': 'process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2', 'file_path': 'sample.csv', 'operation_type': 'freeze', 'total_records': 500, 'matched_records': 500, 'processed_records': 500, 'missing_accounts': 0, 'failed_records': 0}",
+    "status": "COMPLETED",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2"
+  }
+]

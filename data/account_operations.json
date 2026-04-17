@@ -1,0 +1,4002 @@
+[
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-2",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF929015",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-3",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF310074",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-4",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF846071",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-5",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF315292",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-6",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF126291",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-7",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF835653",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-8",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF322439",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-9",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF897534",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-10",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF989019",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-11",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF885831",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-12",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF247641",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-13",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF804024",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-14",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF415227",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-15",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF362242",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-16",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF934457",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-17",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF969802",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-18",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF769349",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-19",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF939402",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-20",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF868729",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-21",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF192851",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-22",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF105636",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-23",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF210227",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-24",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF478124",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-25",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF908586",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-26",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF313779",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-27",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF857965",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-28",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF890829",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-29",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF140560",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-30",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF991582",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-31",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF831306",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-32",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF403264",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-33",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF923504",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-34",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF563428",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-35",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF186614",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-36",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF227880",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-37",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF945155",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-38",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF460298",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-39",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF851970",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-40",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF274890",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-41",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF393577",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-42",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF925505",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-43",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF964804",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-44",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF932909",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-45",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF909641",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-46",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF133763",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-47",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF710894",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-48",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF736100",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-49",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF574954",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-50",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF682061",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-51",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF800244",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-52",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF644080",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-53",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF289566",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-54",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF524210",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-55",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF651563",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-56",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF844913",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-57",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF851806",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-58",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF796665",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-59",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF150704",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-60",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF303701",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-61",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF368164",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-62",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF336791",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-63",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF466451",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-64",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF485428",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-65",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF608377",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-66",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF683028",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-67",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF918662",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-68",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF244323",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-69",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF697179",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-70",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF125704",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-71",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF229676",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-72",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF238491",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-73",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF191976",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-74",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF322142",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-75",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF739085",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-76",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF558644",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-77",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF520524",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-78",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF256047",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-79",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF302717",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-80",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF916743",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-81",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF218641",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-82",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF852658",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-83",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF665537",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-84",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF759457",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-85",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF434108",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-86",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF507474",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-87",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF491755",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-88",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF151883",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-89",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF654217",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-90",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF797561",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-91",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF534833",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-92",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF955895",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-93",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF512841",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-94",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF332021",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-95",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF919596",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-96",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF131836",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-97",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF250199",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-98",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF890433",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-99",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF908375",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-100",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF905479",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-101",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF752500",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-102",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF268914",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-103",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF262839",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-104",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF797840",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-105",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF843786",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-106",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF355376",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-107",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF521013",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-108",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF909658",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-109",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF125694",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-110",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF412373",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-111",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF486146",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-112",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF680389",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-113",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF680228",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-114",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF290624",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-115",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF265914",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-116",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF359139",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-117",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF580962",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-118",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF253447",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-119",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF872131",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-120",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF219765",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-121",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF926697",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-122",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF833947",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-123",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF676222",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-124",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF801787",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-125",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF695771",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-126",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF730136",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-127",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF199831",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-128",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF743049",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-129",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF947643",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-130",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF380961",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-131",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF695700",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-132",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF408190",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-133",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF434469",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-134",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF589147",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-135",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF450011",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-136",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF934609",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-137",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF768122",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-138",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF101913",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-139",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF445990",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-140",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF321522",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-141",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF335593",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-142",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF849474",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-143",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF182974",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-144",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF764706",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-145",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF526694",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-146",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF259058",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-147",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF485226",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-148",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF218796",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-149",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF608583",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-150",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF300622",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-151",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF211111",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-152",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF481480",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-153",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF227844",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-154",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF820230",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-155",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF948742",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-156",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF785656",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-157",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF122535",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-158",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF692720",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-159",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF921910",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-160",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF361262",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-161",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF835321",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-162",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF714210",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-163",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF835721",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-164",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF573448",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-165",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF385101",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-166",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF601389",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-167",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF961333",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-168",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF383308",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-169",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF802484",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-170",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF606151",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-171",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF183461",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-172",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF819696",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-173",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF295979",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-174",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF390792",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-175",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF247182",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-176",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF399310",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-177",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF744716",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-178",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF777529",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-179",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF210243",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-180",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF774530",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-181",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF939560",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-182",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF141428",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-183",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF934095",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-184",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF230900",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-185",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF573375",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-186",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF322419",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-187",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF902041",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-188",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF890462",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-189",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF484397",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-190",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF822139",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-191",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF503488",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-192",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF687297",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-193",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF664375",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-194",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF417306",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-195",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF807783",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-196",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF884216",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-197",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF484313",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-198",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF326911",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-199",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF348150",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-200",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF368237",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-201",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF688161",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-202",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF841901",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-203",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF445686",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-204",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF178753",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-205",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF183655",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-206",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF454081",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-207",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF534195",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-208",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF456573",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-209",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF242962",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-210",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF450924",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-211",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF960073",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-212",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF426030",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-213",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF564090",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-214",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF377794",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-215",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF986752",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-216",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF625684",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-217",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF267436",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-218",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF987177",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-219",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF311289",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-220",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF949746",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-221",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF995000",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-222",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF126827",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-223",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF592596",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-224",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF494005",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-225",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF191037",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-226",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF679812",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-227",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF710722",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-228",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF266175",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-229",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF398961",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-230",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF208456",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-231",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF567449",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-232",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF426051",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-233",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF179517",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-234",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF576954",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-235",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF892618",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-236",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF736592",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-237",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF267786",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-238",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF756236",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-239",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF869575",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-240",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF222276",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-241",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF389475",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-242",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF499270",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-243",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF668105",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-244",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF889200",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-245",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF897634",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-246",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF986104",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-247",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF127482",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-248",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF127379",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-249",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF663486",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-250",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF314043",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-251",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF937910",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-252",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF687314",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-253",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF248498",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-254",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF884353",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-255",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF133373",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-256",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF460634",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-257",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF477122",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-258",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF328077",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-259",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF536202",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-260",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF255944",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-261",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF457037",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-262",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF232388",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-263",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF688900",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-264",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF352862",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-265",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF934006",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-266",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF355949",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-267",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF679564",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-268",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF461819",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-269",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF556825",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-270",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF403134",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-271",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF806122",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-272",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF621234",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-273",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF141309",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-274",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF977843",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-275",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF344201",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-276",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF331316",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-277",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF195946",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-278",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF167258",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-279",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF121785",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-280",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF820146",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-281",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF818494",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-282",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF306537",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-283",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF290136",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-284",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF935094",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-285",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF334532",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-286",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF245542",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-287",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF671819",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-288",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF189342",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-289",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF259739",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-290",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF726004",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-291",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF416406",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-292",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF265401",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-293",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF921809",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-294",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF130699",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-295",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF233066",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-296",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF478855",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-297",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF498464",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-298",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF193482",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-299",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF524304",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-300",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF344852",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-301",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF523205",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-302",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF157535",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-303",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF516499",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-304",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF281390",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-305",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF831160",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-306",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF470388",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-307",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF404161",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-308",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF865624",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-309",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF379204",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-310",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF223148",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-311",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF409928",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-312",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF849668",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-313",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF566304",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-314",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF606939",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-315",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF989828",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-316",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF276459",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-317",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF696788",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-318",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF773269",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-319",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF756509",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-320",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF929091",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-321",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF523128",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-322",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF989234",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-323",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF164080",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-324",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF210362",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-325",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF653888",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-326",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF924089",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-327",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF212827",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-328",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF906438",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-329",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF609918",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-330",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF565552",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-331",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF643736",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-332",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF504142",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-333",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF219051",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-334",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF646614",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-335",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF415008",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-336",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF385079",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-337",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF887982",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-338",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF992808",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-339",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF345558",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-340",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF666860",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-341",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF458368",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-342",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF799637",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-343",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF850180",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-344",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF459997",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-345",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF207757",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-346",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF377710",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-347",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF990222",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-348",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF215607",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-349",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF797251",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-350",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF356084",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-351",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF783856",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-352",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF273125",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-353",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF963104",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-354",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF371921",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-355",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF755659",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-356",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF578786",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-357",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF969715",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-358",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF736829",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-359",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF203186",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-360",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF685877",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-361",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF711546",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-362",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF413670",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-363",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF226740",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-364",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF210668",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-365",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF833850",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-366",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF227223",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-367",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF562963",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-368",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF159391",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-369",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF680868",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-370",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF540126",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-371",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF552670",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-372",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF264623",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-373",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF471810",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-374",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF318640",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-375",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF507735",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-376",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF659897",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-377",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF102701",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-378",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF871617",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-379",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF923376",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-380",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF434084",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-381",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF223968",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-382",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF229663",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-383",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF616725",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-384",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF675322",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-385",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF605912",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-386",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF944854",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-387",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF812330",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-388",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF562376",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-389",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF262604",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-390",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF969647",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-391",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF249271",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-392",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF493040",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-393",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF770226",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-394",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF540879",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-395",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF622845",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-396",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF260623",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-397",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF798357",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-398",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF911695",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-399",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF909430",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-400",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF282790",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-401",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF156251",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-402",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF298921",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-403",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF243304",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-404",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF504570",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-405",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF367075",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-406",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF322928",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-407",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF123244",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-408",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF596191",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-409",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF987129",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-410",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF852422",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-411",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF856310",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-412",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF997854",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-413",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF772508",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-414",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF792030",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-415",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF672301",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-416",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF552807",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-417",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF362661",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-418",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF239640",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-419",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF285678",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-420",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF980742",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-421",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF517425",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-422",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF478897",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-423",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF364150",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-424",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF845049",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-425",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF853973",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-426",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF127434",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-427",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF368216",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-428",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF781437",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-429",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF311704",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-430",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF341191",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-431",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF720630",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-432",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF889432",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-433",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF328267",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-434",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF498369",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-435",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF641868",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-436",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF409564",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-437",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF408499",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-438",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF774737",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-439",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF705302",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-440",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF601441",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-441",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF555642",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-442",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF131761",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-443",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF840106",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-444",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF357104",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-445",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF220088",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-446",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF861927",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-447",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF163519",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-448",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF146983",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-449",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF104770",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-450",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF971330",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-451",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF392694",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-452",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF832762",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-453",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF411416",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-454",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF196850",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-455",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF269590",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-456",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF946189",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-457",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF335341",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-458",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF919160",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-459",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF355476",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-460",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF554867",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-461",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF507576",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-462",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF431939",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-463",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF606831",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-464",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF168240",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-465",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF152862",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-466",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF191081",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-467",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF577364",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-468",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF915006",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-469",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF180970",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-470",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF463138",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-471",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF980887",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-472",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF713383",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-473",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF984214",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-474",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF471665",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-475",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF535972",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-476",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF863887",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-477",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF545597",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-478",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF173212",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-479",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF231784",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-480",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF627603",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-481",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF305190",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-482",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF640004",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-483",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF947041",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-484",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF164112",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-485",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF469905",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-486",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF229162",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-487",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF680161",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-488",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF553789",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-489",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF247114",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-490",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF327089",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-491",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF758855",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-492",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF431496",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-493",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF670712",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-494",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF468775",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-495",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF539569",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-496",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF611508",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-497",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF412294",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-498",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF119895",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-499",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF909410",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-500",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF666727",
+    "amount": "0",
+    "status": "applied"
+  },
+  {
+    "operation_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2:freeze:row-501",
+    "workflow_id": "process-csv-freeze-7df2ef26-66cc-4a8d-8ff6-bcdbba952ab2",
+    "operation_type": "freeze",
+    "cif_id": "CIF562620",
+    "amount": "0",
+    "status": "applied"
+  }
+]

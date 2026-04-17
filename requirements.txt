@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+temporalio
+pydantic
+psycopg2
+python-multipart
